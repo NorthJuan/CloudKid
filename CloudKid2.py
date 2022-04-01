@@ -5,8 +5,8 @@ st.title("Mi primer app")
 click=st.button("dale click")
 st.write("el valor de click es: ",click)
 
-if click==True:
-  st.image("Perrillo.jpg")
+#if click==True:
+  #st.image("Perrillo.jpg")
 
 #st.markdown(" #titulo ")
 #st.markdown(" **este es una vineta** ")
