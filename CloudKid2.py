@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Mi primer app")
 click=st.button("dale click")
-srt.write("el valor de click es: ",click)
+st.write("el valor de click es: ",click)
 
 if click==True:
   st.image("Perrillo.jpg")
